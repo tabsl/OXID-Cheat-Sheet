@@ -1,7 +1,7 @@
 OXID-Cheat-Sheet
 ================
 
-Thanks to Thomas Dartsch vom D3 Development (www.shopmodule.com) for this cheat sheet.
+Thanks to Thomas Dartsch from D3 Development (www.shopmodule.com) for this cheat sheet.
 
 Feel free to expand ...
 
